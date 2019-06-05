@@ -1,0 +1,3 @@
+[2019-05-15 23:59:10] mycomp_log.INFO: This is a log! ^_^  [] []
+[2019-05-15 23:59:10] mycomp_log.WARNING: This is a log warning! ^_^  [] []
+[2019-05-15 23:59:10] mycomp_log.ERROR: This is a log error! ^_^  [] []
